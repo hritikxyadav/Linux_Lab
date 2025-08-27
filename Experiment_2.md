@@ -19,7 +19,8 @@ Explain how to use the scripts, with examples.
 ## Bash Script Snippets
 
 ### Script 1: Description of script 1
-![Ussage of Commands mkdir,ls,echo,cp](./images/Exp2.png)
+<img width="729" height="227" alt="image" src="https://github.com/user-attachments/assets/70e95553-d82e-4a9e-9ccc-cfc9f647d570" />
+
 
 ```bash
 #!/bin/bash
